@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Dart](https://img.shields.io/badge/Dart-0?style=flat-square&logo=dart&logoColor=45D1FD&color=45D1FD&labelColor=373759)
+![Flutter](https://img.shields.io/badge/Flutter-0?style=flat-square&logo=flutter&logoColor=45D1FD&color=45D1FD&labelColor=373759)
+![Typescript](https://img.shields.io/badge/Typescript-0?style=flat-square&logo=typescript&logoColor=45D1FD&color=45D1FD&labelColor=373759)
+![React](https://img.shields.io/badge/React-0?style=flat-square&logo=react&logoColor=45D1FD&color=45D1FD&labelColor=373759)
+![IDEA](https://img.shields.io/badge/Intellij%20IDEA-0?style=flat-square&logo=intellij%20idea&logoColor=black&color=45D1FD&labelColor=e3e3e3)
+
 <!--
 **Hexer10/Hexer10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
