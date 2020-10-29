@@ -18,7 +18,7 @@ I'm a programmer working on a varaiety on Open Source Projects!
 
 ### Github Stats
 
-[![Hexah GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hexer10&count_private=true&show_icons=true)](https://github.com/anandmainali)
+[![Hexah GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hexer10&count_private=true&show_icons=true)](https://github.com/Hexer10)
 
 ### Github Repos
 
