@@ -2,7 +2,7 @@
 
 <div>
  <p>
-I'm a programmer working on a varaiety on Open Source Projects!
+I'm a programmer working on a variety on Open Source Projects!
 </p>
 </div>
 
