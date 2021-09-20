@@ -23,7 +23,7 @@ I'm a programmer working on a variety on Open Source Projects!
 ### Github Repos
 
 [![YoutubeExplodeDart Card](https://github-readme-stats.vercel.app/api/pin/?username=Hexer10&repo=youtube_explode_dart&show_owner=true&theme=onedark)](https://github.com/Hexer10/youtube_explode_dart)
-[![SPCode Card](https://github-readme-stats.vercel.app/api/pin/?username=Hexer10&repo=SPCode&show_owner=true&theme=onedark)](https://github.com/Hexer10/SPCode)
+[![SPCode Card](https://github-readme-stats.vercel.app/api/pin/?username=SPCodeOrg&repo=SPCode&show_owner=true&theme=onedark)](https://github.com/Hexer10/SPCode)
 
 <h3> 🤝🏻 Get in touch with me! </h3>
 
