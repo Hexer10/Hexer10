@@ -22,5 +22,5 @@ I work on a variety on Open Source Projects!
 
 <h3> 🤝🏻 Get in touch with me! </h3>
 
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png" alt="Discord Hexah#6903 " width="24">](https://discord.com/) Hexah#6903| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Flutter" width="38">](https://t.me/Hexah)
-|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Flutter" width="38">](https://t.me/Hexah)
+|---|
